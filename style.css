@@ -1,3 +1,9 @@
 body {
-    background-color: cadetblue;
+    font-family: 'Bebas Neue', cursive;
+    background-color: slategray;
+}
+
+.picture-scale {
+    border-radius: 10px;
+    width: 25%;
 }
